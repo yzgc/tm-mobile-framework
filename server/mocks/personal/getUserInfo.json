@@ -1,0 +1,18 @@
+/*
+ * 本例使用js仿造json
+ * @url /getUserInfo
+ *
+ */
+
+{
+  "code": 10000,
+  "msg": "",
+  "result": {
+       "name": "clzf",
+       "avatar": "http://tm.image/12306",
+       "age": 20,
+       "userId": "1",
+       "company": "tm",
+       "gold": 10
+  }
+}
